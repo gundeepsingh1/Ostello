@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423041641232",
+    "firebase_url": "https://ostello-748ec.firebaseio.com",
+    "project_id": "ostello-748ec",
+    "storage_bucket": "ostello-748ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423041641232:android:7f664716e831d967",
+        "android_client_info": {
+          "package_name": "com.bitfield.com.ostello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423041641232-jttsthj2suam81qs2jj7j26376ll0d3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMU8OMN-Bf6D1-oCtDW2dqgMLqMa2MQSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
